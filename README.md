@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning AI as well
 - 📫 How to reach me dseakamela@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Soocer & hiking
+- ⚡ Fun fact: Soccer & hiking
 
 <!---
 dseakamela/dseakamela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
